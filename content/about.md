@@ -1,4 +1,4 @@
----
+﻿---
 title: O projektu
 menu:
   main:
@@ -30,7 +30,7 @@ Numisatics
 
 ## Dostupná multimédia
 - http://geben.cz/wp-content/uploads/2016/03/134-1879-1-1.jpg
-- https://obchod.numismatika.com/_obchody/numismatika.shop5.cz/prilohy/22/uhry-1-2-tolar-1797-b-krizovy-frantisek-ii-0.jpg.big.jpg
+-     https://obchod.numismatika.com/_obchody/numismatika.shop5.cz/prilohy/22/uhry-1-2-tolar-1797-b-krizovy-frantisek-ii-0.jpg.big.jpg
 - http://www.efise.cz/user/20281/upload/stuff/resized/14596880_900-550.jpg
 - http://geben.cz/wp-content/uploads/2016/06/m239-5.-Koruna-1900-K.B.-1.jpg
 - http://www.nume.cz/uploads/items/cns-praha-63-114.jpg
@@ -40,7 +40,7 @@ Numisatics
 - https://1gr.cz/fotky/idnes/16/112/r7/MAV6752ec_000.jpg
 - https://www.coincommunity.com/forum/uploaded/yechi7/20075111229_ph_0512_heller-2b.jpg
 
-## Vizuální inspiraci pro budoucí vzhled webu
+## Vizuální inspirace pro budoucí vzhled webu
 - https://f.aukro.cz/images/sk6924328985/400x300/81540cbe-f656-4595-ac97-f396605f3951
 - https://static3.depositphotos.com/1000975/193/i/450/depositphotos_1939035-stock-photo-pile-of-golden-coins-isolated.jpg
 - http://www.zlatakorunacz.cz/eshop/
