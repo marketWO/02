@@ -1,7 +1,6 @@
 ---
 title: "Historie a průběh času českých mincí"
 date: 2018-04-23T18:31:13+02:00
-draft: false
 ---
 
 <p> První článek se věnuje historii mincí na českém území počínaje denáry až po dnešní mince. <br/>
